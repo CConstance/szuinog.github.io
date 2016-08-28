@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+INOG (INOG is not only geek) 社团以学术交流、创新创业实践为主，结合软件与硬件，创造各式极富想象力的应用和产品。
+社团主要活动为学术交流、创新项目开发、创业实践、不定期举办各类创客比赛。
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+社团在保持学术交流、创新发展的基础上，以创新项目为主导，力争发展出具有竞争力的创业项目，通过不断的资源整合，实现创新idea到创业product的转化，将所学技术转为生产应用。社团以开源创客作为社团文化，第一步将着手建立深圳大学的开源镜像站，为校内外、社会企业广大技术人员提供便利；第二步将以社员参与创新项目开发，提高创新能力；第三步将落实创业实践，将好的创意实现并且产生效益。
