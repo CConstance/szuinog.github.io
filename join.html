@@ -24,7 +24,7 @@ permalink: /join/
         <label class="mdl-textfield__label" for="phone">电话</label>
       </div><br />
       <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
-        <input type="radio" id="option-1" class="mdl-radio__button" name="gender" value="male">
+        <input type="radio" id="option-1" class="mdl-radio__button" name="gender" value="male" checked>
         <span class="mdl-radio__label">男</span>
       </label>
       <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
@@ -38,6 +38,10 @@ permalink: /join/
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="text" id="grade">
         <label class="mdl-textfield__label" for="grade">年级</label>
+      </div><br />
+      <div class="mdl-textfield mdl-js-textfield">
+        <textarea class="mdl-textfield__input" type="text" rows= "3" id="self" ></textarea>
+        <label class="mdl-textfield__label" for="self">自我介绍（非必填）</label>
       </div><br />
     </form>
     <button class="mdl-button mdl-button--colored mdl-button--raised mdl-js-button mdl-js-ripple-effect" onclick="register()">
@@ -57,7 +61,8 @@ permalink: /join/
             phone: $('#phone').val(),
             gender: $('input:radio[name="gender"]:checked').val(),
             college: $('#college').val(),
-            grade: $('#grade').val()
+            grade: $('#grade').val(),
+            self: $('#self').val()
           },
 
           error: function(respond)
