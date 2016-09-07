@@ -11,35 +11,37 @@ permalink: /join/
 <body>
   <div class="well">
     <form name="join_form">
-      <div class="mdl-textfield mdl-js-textfield">
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="text" id="name">
         <label class="mdl-textfield__label" for="name">姓名</label>
-      </div>
-      <div class="mdl-textfield mdl-js-textfield">
+      </div><br />
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="number" id="stu_no">
         <label class="mdl-textfield__label" for="stu_no">学号</label>
-      </div>
-      <div class="mdl-textfield mdl-js-textfield">
+      </div><br />
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="number" id="phone">
         <label class="mdl-textfield__label" for="phone">电话</label>
-      </div>
-      <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="list-checkbox-1">
-        <input type="checkbox" id="list-checkbox-1" class="mdl-checkbox__input" name="gender" value="male" checked />男
+      </div><br />
+      <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
+        <input type="radio" id="option-1" class="mdl-radio__button" name="gender" value="male">
+        <span class="mdl-radio__label">男</span>
       </label>
-      <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="list-checkbox-2">
-        <input type="checkbox" id="list-checkbox-2" class="mdl-checkbox__input" name="gender" value="female" />女
+      <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
+        <input type="radio" id="option-2" class="mdl-radio__button" name="gender" value="female">
+        <span class="mdl-radio__label">女</span>
       </label><br />
-      <div class="mdl-textfield mdl-js-textfield">
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="text" id="college">
         <label class="mdl-textfield__label" for="college">学院</label>
-      </div>
-      <div class="mdl-textfield mdl-js-textfield">
+      </div><br />
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="text" id="grade">
         <label class="mdl-textfield__label" for="grade">年级</label>
-      </div>
+      </div><br />
     </form>
     <button class="mdl-button mdl-button--colored mdl-button--raised mdl-js-button mdl-js-ripple-effect" onclick="register()">
-      注册
+      报名
     </button>
   </div>
   <!-- Submit script -->
