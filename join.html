@@ -7,6 +7,8 @@ permalink: /join/
   <link rel="stylesheet" href="/static/css/mdl.min.css" media="screen" title="no title">
   <script src="/static/js/jquery.min.js" charset="utf-8"></script>
   <script src="/static/js/mdl.min.js" charset="utf-8"></script>
+  <script src="/static/js/register.js" charset="utf-8"></script>
+  <script src="/static/js/av.min.js" charset="utf-8"></script>
 </head>
 <body>
   <div class="well">
@@ -50,32 +52,6 @@ permalink: /join/
   </div>
   <!-- Submit script -->
   <script type="text/javascript">
-    function register()
-    {
-      $.ajax({
-          type: 'POST',
-          url: "#",
-          data: {
-            name: $('#name').val(),
-            stu_no: $('#stu_no').val(),
-            phone: $('#phone').val(),
-            gender: $('input:radio[name="gender"]:checked').val(),
-            college: $('#college').val(),
-            grade: $('#grade').val(),
-            self: $('#self').val()
-          },
-
-          error: function(respond)
-          {
-            // Code
-          },
-
-          success: function(data)
-          {
-            // Code
-          }
-        }
-      )
-    }
+    
   </script>
 </body>
