@@ -34,3 +34,32 @@ permalink: /join/
       </div>
     </form>
   </div>
+  <!-- Submit script -->
+  <script type="text/javascript">
+    function register()
+    {
+      $.ajax({
+          type: 'POST',
+          url: "#",
+          data: {
+            name: $('#name').val(),
+            stu_no: $('#stu_no').val(),
+            phone: $('#phone').val(),
+            gender: $('input:radio[name="gender"]:checked').val(),
+            college: $('#college').val(),
+            grade: $('#grade').val()
+          },
+
+          error: function(respond)
+          {
+            // Code
+          },
+
+          success: function(data)
+          {
+            // Code
+          }
+        }
+      )
+    }
+  </script>
