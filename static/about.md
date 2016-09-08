@@ -4,39 +4,70 @@ title: About
 permalink: /about/
 ---
 
-# Why You Need Us
-
-标签（空格分隔）： 深度好文
+# INOG
 
 ---
 
->想当初，我们想做个小项目都很难找到技术大神……
+&nbsp; &nbsp; &nbsp; &nbsp; **INOG (INOG is not only geek)** 社团以学术交流、创新创业实践为主，结合软件与硬件，创造各式极富想象力的应用和产品。社团主要活动为学术交流、创新项目开发、创业实践、不定期举办各类创客比赛。
 
->想当初，找个实习都要好久……
+&nbsp; &nbsp; &nbsp; &nbsp;社团在保持学术交流、创新发展的基础上，以创新项目为主导，力争发展出具有竞争力的创业项目，通过不断的资源整合，实现创新idea到创业product的转化，将所学技术转为生产应用。社团以开源创客作为社团文化，第一步将着手建立深圳大学的开源镜像站，为校内外、社会企业广大技术人员提供便利；第二步将以社员参与创新项目开发，提高创新能力；第三步将落实创业实践，将好的创意实现并且产生效益。
+&nbsp; &nbsp; &nbsp;![INOG_文博会][1]
 
->想当初，遇到一点 bug 都要调好久……
+##荣誉主席--Jon&nbsp;Maddog&nbsp;Hall&nbsp;
 
->想当初，总是找不到可以带我们一程的大牛
+<p>INOG有幸邀请到Jon Hall担任我们社团的荣誉主席，关于Maddog:
+&nbsp; &nbsp; &nbsp;![Maddog][2]
 
-我们深深感觉在深大有各种各样的组织，社团，却缺少一个足够好的交流的平台。让大家可以在这里肆意地交流技术和生活。
+>It was during his time with Digital that he initially became interested in Linux, and was instrumental in obtaining equipment and resources for&nbsp;Linus Torvalds&nbsp;to accomplish his first port, to&nbsp;Digital's Alpha platform. It was also in this general timeframe that Hall, who lives in New Hampshire, started the Greater New Hampshire&nbsp;Linux Users' Group. Hall has&nbsp;UNIX&nbsp;as his New Hampshire&nbsp;vanity license plate.
 
-于是，我们以一个论坛为起点。我们希望她能成为技术工作者们生活和事业的一部分。你可以在这里找大神，找实习，找工作，发表自己的技术文章和大家讨论。这里很自由，天高任鸟飞。
+##关于INOG的组织架构
+&nbsp; &nbsp; &nbsp; &nbsp; 先来看看我们的架构分布图：
 
-这里也有各种各样的大神，会写出精彩的文章给大家，如果你不服的话……
+&nbsp; &nbsp;&nbsp;![INOG_架构分布][3]
 
-就加入我们！
+&nbsp; &nbsp; &nbsp; &nbsp; 让我们用表格的形式来稍微解释一下：
+<table>
+        <tr>
+            <th>小组</th>
+            <th>功能</th>
+        </tr>
+        <tr>
+            <td>会长</td>
+            <td>唔..类似**发展的总设计师之类的（说白了就是啥都管很操心那种</td>
+        </tr>
+        <tr>
+            <td>创新工程组</td>
+            <td>INOG的每一位成员都可以属于这个组，是社团的创作源泉，idea的诞生地</td>
+        </tr>
+        <tr>
+            <td>基础研发组</td>
+            <td>专注于将蓝图实现，大神的摇篮</td>
+        </tr>
+        <tr>
+            <td>公共关系组</td>
+            <td>带你去见识这个世界|开创世界的诺亚方舟</td>
+        </tr>
+        <tr>
+            <td>行政支持组</td>
+            <td>操持内务，无后顾之忧</td>
+        </tr>
+    </table>
+    
+&nbsp; &nbsp; &nbsp; &nbsp;好像解释得太简单？问题是，本来就不复杂呀，这些小组不是看看名字都能秒get的吗？事实上，INOG并不拘泥于这些东西， 加入我们就知道啦。
 
-用技术打架吧！
-
-如果你是一条咸鱼，就一起来翻身呀~
-
-如果你想教我们做人，请[猛戳][1]这里呀呀~
-
-![INOG_LOGO][2]
+##最后的最后奉上我们的大礼包
+&nbsp; &nbsp; &nbsp; &nbsp;赠送[Awesome CSSErs' artwork][4] 欢迎加入深大！
 
 
-###INOG Is Not Only **~~Gay~~** Geeks
 
 
-  [1]: https://bbs.ifevent.com
-  [2]: http://ww4.sinaimg.cn/mw690/7032ef19gw1f7m16h1d7hj20he06h0t1.jpg
+
+
+<small>Source: [szuinog.github.io][5]</small>
+
+
+  [1]: http://ww3.sinaimg.cn/mw690/7032ef19gw1f7ma3pqgbjj20i80i7jva.jpg
+  [2]: http://ww4.sinaimg.cn/mw690/7032ef19gw1f7mamquxdjj20i80i8q5i.jpg
+  [3]: http://ww3.sinaimg.cn/mw690/7032ef19gw1f7m9r4gif8j20o20e3dhh.jpg
+  [4]: https://github.com/szuinog/awesome-csse
+  [5]: https://szuinog.github.io/join/
