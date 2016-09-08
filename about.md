@@ -1,12 +1,10 @@
----
+-
 layout: page
 title: About
 permalink: /about/
 ---
 
 # Why You Need Us
-
-标签（空格分隔）： 深度好文
 
 ---
 
@@ -35,8 +33,8 @@ permalink: /about/
 ![INOG_LOGO][2]
 
 
-###INOG Is Not Only **~~Gay~~** Geeks
+##INOG Is Not Only **~~Gay~~** Geeks
 
 
-  [1]: https://bbs.ifevent.com
+  [1]: https://szuinog.github.io/join/
   [2]: http://ww4.sinaimg.cn/mw690/7032ef19gw1f7m16h1d7hj20he06h0t1.jpg
